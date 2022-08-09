@@ -8,16 +8,11 @@ This module creates Amazon MSK Cluster and AWS MSK Configuration.
 This module creates AWS MSK Cluster and AWS MSK Configuration. Additionally you can configure monitoring, encryption and other options.
 
 ## Dedicated Associates:
-* arun marepally <arunkumar.marepally@broadridge.com>
+* arun marepally <marepallyarun@gmail.com>
 
 ## Usage
 
-```HCL
-module "example" {
-  source  = "terraform.prd.bfsaws.net/CSG/terraform-aws-msk-cluster/aws"
-  version = "0.1.0"
-}
-```
+
 
 ## Module Resources
 
